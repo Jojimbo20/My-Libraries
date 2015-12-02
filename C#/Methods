@@ -1,2 +1,0 @@
-Name                      Description                                         Arguments                           Return Type
-Reverse()                 Reverses a string passed into it.                   (string)                            String
