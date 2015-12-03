@@ -20,6 +20,7 @@
 Name                      Description                                         Arguments                   Return Type         Type
 Reverse()                 Reverses a string passed into it.                   (string)                    String              Static
 isPalindrome()            Checks whether a number is a palindrome.            (int)                       Bool                Static
+Encrypt()                 Uses a caeser style shift to encrypt a string       (string, int)               String              Static
 
 
 
